@@ -1,0 +1,12 @@
+nav a {
+  margin: 5px;
+  padding: 2px;
+}
+
+.code {
+  padding: 5px;
+  margin-top: 100px;
+  color: red;
+  border: 2px solid black;
+  border-radius: 10px;
+}
