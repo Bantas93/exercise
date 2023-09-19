@@ -12,7 +12,7 @@ const ApiExercise = () => {
 
     const intervalId = setInterval(() => {
       fetchData();
-    }, 10000);
+    }, 6000);
 
     return () => {
       clearInterval(intervalId);
